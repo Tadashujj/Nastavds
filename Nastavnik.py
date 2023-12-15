@@ -5,9 +5,9 @@ bot=telebot.TeleBot("6697732049:AAF1_m6cV8wZ1-20h_bdOUJoUxSCCGE4MOo")
 def chat(chat):
     
         use=types.InlineKeyboardMarkup()
-        btn1=types.InlineKeyboardButton(text='Benjamin ⚡️', url='https://t.me/BenjamimDirector')
+        btn1=types.InlineKeyboardButton(text='Benjamin ⚡️', url='https://t.me/BenjaminDirector')
         btn2=types.InlineKeyboardButton(text='Qweef ⚡️',url='https://t.me/cabjah')
-        btn3=types.InlineKeyboardButton(text='Соня Мармеладова ⚡️', url='https://t.me/president14888')
+        btn3=types.InlineKeyboardButton(text='Соня Мармеладова ⚡️', url='https://t.me/president1881')
         use.add(btn1)
         use.add(btn2)
         use.add(btn3)
